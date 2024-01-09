@@ -1,0 +1,28 @@
+image: node:18
+
+pipelines:
+  custom:
+    deploy:
+      - step:
+          name: Build
+          caches:
+            - node
+          script:
+            - cd $FOLDER
+            - yarn
+            - npm run build
+            - npm run export
+
+      - step:
+          name: Test
+          caches:
+            - node
+          script:
+            - npm run test
+
+      - step:
+          name: Lint
+          caches:
+            - node
+          script:
+            - npm run lint

@@ -1,0 +1,1129 @@
+{
+    "pois": [
+        {
+            "latitude": 43.3057,
+            "longitude": -0.3288,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 44.182600000000008,
+            "longitude": 0.61730000000000007,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 44.108,
+            "longitude": 4.0930999999999989,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.4077,
+            "longitude": 2.7748,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.5693,
+            "longitude": 3.6553,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 45.754999999999995,
+            "longitude": 4.86,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.094,
+            "longitude": 6.2369000000000012,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.6799,
+            "longitude": 7.2307,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.3458,
+            "longitude": 6.1788000000000007,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.6636,
+            "longitude": 4.6362,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 47.61290000000001,
+            "longitude": 1.3323999999999998,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.0542,
+            "longitude": 2.0197000000000003,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.3515,
+            "longitude": 5.0691999999999995,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.742100000000008,
+            "longitude": 1.3873000000000002,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.1867,
+            "longitude": 6.1461,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.866699999999994,
+            "longitude": 2.3700999999999994,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 50.6373,
+            "longitude": 3.0681999999999996,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 50.6517,
+            "longitude": 2.9840000000000004,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 46.3382,
+            "longitude": -0.40180000000000005,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.5694,
+            "longitude": 2.4556,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 44.360299999999995,
+            "longitude": 2.5719999999999996,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 50.7522,
+            "longitude": 3.1317,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.9463,
+            "longitude": 1.867,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.8348,
+            "longitude": 2.6598,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.8941,
+            "longitude": 2.2958,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.2693,
+            "longitude": -0.7073,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 47.0134,
+            "longitude": 4.843300000000001,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 50.9538,
+            "longitude": 1.852,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 50.3822,
+            "longitude": 3.0559,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.9133,
+            "longitude": 2.4359,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 45.929,
+            "longitude": 6.0836,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.1951,
+            "longitude": 6.4658,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.0186,
+            "longitude": 1.1644,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 45.188600000000008,
+            "longitude": 5.7782,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 46.1839,
+            "longitude": 1.8756,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 45.690899999999992,
+            "longitude": 4.8215,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.5219,
+            "longitude": 4.9566999999999988,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.5859,
+            "longitude": 3.895999999999999,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.6189,
+            "longitude": 6.1773000000000007,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 44.1349,
+            "longitude": 4.7928,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 44.7796,
+            "longitude": -0.6503000000000001,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 44.788,
+            "longitude": -0.6463000000000001,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.759900000000009,
+            "longitude": 2.3455,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.2793,
+            "longitude": -0.0696,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 50.546900000000008,
+            "longitude": 3.0553000000000003,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.2179,
+            "longitude": 4.0742,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.222,
+            "longitude": 0.042900000000000008,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.669,
+            "longitude": -2.7206,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 45.544,
+            "longitude": 4.8554,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 45.7578,
+            "longitude": 3.1426,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.9301,
+            "longitude": 4.7904000000000009,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.9186,
+            "longitude": 4.8723,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.4902,
+            "longitude": -1.4527000000000003,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.6428,
+            "longitude": 6.8863999999999992,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.285000000000004,
+            "longitude": 4.0308,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 45.822400000000009,
+            "longitude": 4.9920000000000009,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.6377,
+            "longitude": 1.3755,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.0468,
+            "longitude": 2.3428,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 45.7477,
+            "longitude": 4.9363,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.053000000000004,
+            "longitude": 3.9556999999999998,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 44.883299999999991,
+            "longitude": -0.62850000000000006,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 49.0001,
+            "longitude": 2.1908000000000003,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.1286,
+            "longitude": 7.3633000000000006,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.6449,
+            "longitude": 1.472,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.0145,
+            "longitude": 0.1619,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.0951,
+            "longitude": -1.7686,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 45.8896,
+            "longitude": 1.2909,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 49.1433,
+            "longitude": 0.26539999999999997,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 44.8823,
+            "longitude": -0.5097,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 45.3228,
+            "longitude": 5.5912,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.8179,
+            "longitude": 3.0527,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.1147,
+            "longitude": 1.6079999999999999,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 46.0328,
+            "longitude": 4.0984,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.803,
+            "longitude": 1.9724999999999997,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.7983,
+            "longitude": 1.9546,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.979200000000006,
+            "longitude": -4.0765,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 47.5122,
+            "longitude": 6.8398,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.2408,
+            "longitude": 6.1761,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.3472,
+            "longitude": 0.096400000000000013,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.7631,
+            "longitude": 1.9767000000000006,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.292100000000005,
+            "longitude": -2.2104000000000004,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 44.899900000000009,
+            "longitude": 4.885,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 47.215,
+            "longitude": 2.1124999999999994,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 45.46840000000001,
+            "longitude": 4.3681,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.5395,
+            "longitude": 0.9594,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.410799999999995,
+            "longitude": 2.106,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.4663,
+            "longitude": -1.5404,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 44.886900000000004,
+            "longitude": -0.5562,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 45.182300000000005,
+            "longitude": 0.76280000000000014,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.2344,
+            "longitude": 4.1448,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.2253,
+            "longitude": 4.1332,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 46.255900000000004,
+            "longitude": 4.7914,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 45.5952,
+            "longitude": 5.8904000000000005,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.877,
+            "longitude": 2.5101,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.28070000000001,
+            "longitude": 3.905,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.4323,
+            "longitude": -4.4626,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.497000000000007,
+            "longitude": 0.15110000000000004,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 50.6132,
+            "longitude": 3.1223000000000005,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.8488,
+            "longitude": 3.5524000000000004,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.918500000000009,
+            "longitude": 2.2218,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.1533,
+            "longitude": 3.22,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.3666,
+            "longitude": 3.3133,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.86780000000001,
+            "longitude": 2.2259000000000007,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.2577,
+            "longitude": 3.9834,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.652100000000004,
+            "longitude": 1.4187000000000003,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.491,
+            "longitude": -2.7211000000000003,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 47.469,
+            "longitude": -0.6163,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.09770000000001,
+            "longitude": -1.6248999999999998,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.0813,
+            "longitude": -1.6118,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.360700000000008,
+            "longitude": -0.30120000000000008,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 43.976000000000006,
+            "longitude": 4.8722,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.6851,
+            "longitude": 2.2029,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.2962,
+            "longitude": 5.4752,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.410199999999996,
+            "longitude": 5.027,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.983900000000006,
+            "longitude": 1.334,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.868000000000009,
+            "longitude": 2.4323000000000006,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 44.835399999999993,
+            "longitude": -0.67880000000000007,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 42.659,
+            "longitude": 2.8844999999999996,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.7979,
+            "longitude": 2.0609000000000006,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.9865,
+            "longitude": 2.3882000000000003,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.7067,
+            "longitude": 3.1601000000000004,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.6854,
+            "longitude": 2.2182000000000004,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.4261,
+            "longitude": 5.2549,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.1226,
+            "longitude": 2.4266,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.9954,
+            "longitude": 2.2032,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.1624,
+            "longitude": -0.2996,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.1808,
+            "longitude": -1.0942,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.1918,
+            "longitude": -1.5786,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 42.7792,
+            "longitude": 2.8994000000000004,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 46.774399999999993,
+            "longitude": 1.6473999999999998,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.0897,
+            "longitude": 2.5568,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.3482,
+            "longitude": 6.1551,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.9622,
+            "longitude": 2.5535,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.414300000000004,
+            "longitude": 1.464,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 43.2063,
+            "longitude": 2.3145,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 45.618099999999991,
+            "longitude": 0.09959999999999998,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 49.6331,
+            "longitude": -1.5827,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 45.8945,
+            "longitude": 6.1083000000000007,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 50.378,
+            "longitude": 3.4731000000000005,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 46.3832,
+            "longitude": 2.6164,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.9331,
+            "longitude": 2.3027,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.2367,
+            "longitude": 4.0437,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.2237,
+            "longitude": 3.288,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.8533,
+            "longitude": 3.2607,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 49.2017,
+            "longitude": -0.4009,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.475,
+            "longitude": 1.1097,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.271,
+            "longitude": 5.9983999999999993,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.6429,
+            "longitude": 2.3609000000000004,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.34559999999999,
+            "longitude": 0.63929999999999987,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 44.6678,
+            "longitude": 4.7944,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 47.2344,
+            "longitude": -1.6492,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.2031,
+            "longitude": 6.27,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.6772,
+            "longitude": 2.3838000000000004,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.997499999999995,
+            "longitude": 2.3349999999999995,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.679500000000004,
+            "longitude": 2.3329,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.7112,
+            "longitude": 6.2496,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.0789,
+            "longitude": 6.1002,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 43.543399999999991,
+            "longitude": 1.5061,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.4363,
+            "longitude": -0.507,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 47.4368,
+            "longitude": 0.7115,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.2538,
+            "longitude": 6.09,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.877800000000008,
+            "longitude": 2.4740000000000006,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.466,
+            "longitude": 3.6908999999999996,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 46.79290000000001,
+            "longitude": 4.8333000000000013,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 45.5844,
+            "longitude": 4.7906,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 45.806900000000006,
+            "longitude": 3.1173,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 45.7839,
+            "longitude": 3.1097,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.107,
+            "longitude": 5.8505,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.6531,
+            "longitude": 2.2715,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.949900000000007,
+            "longitude": 2.4648,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.017300000000006,
+            "longitude": 2.5886,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.407599999999995,
+            "longitude": 2.9837,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.9981,
+            "longitude": 2.5156999999999994,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.4973,
+            "longitude": 3.9676000000000009,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 48.5684,
+            "longitude": 2.6339,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 46.104,
+            "longitude": -1.094,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.711700000000008,
+            "longitude": 2.8561,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.282,
+            "longitude": 5.0136000000000012,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 51.0229,
+            "longitude": 2.3351,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 43.6299,
+            "longitude": 5.1195,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 44.7849,
+            "longitude": -0.58910000000000007,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.759599999999992,
+            "longitude": 2.5013,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 44.964700000000008,
+            "longitude": 4.8829,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 45.145500000000006,
+            "longitude": 1.4752,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.339,
+            "longitude": 0.7065,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.1328,
+            "longitude": -1.0981000000000003,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 48.934700000000007,
+            "longitude": 2.8804,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 43.53,
+            "longitude": 1.4033999999999998,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 50.3328,
+            "longitude": 3.4493,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.0253,
+            "longitude": 3.1489,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 49.2834,
+            "longitude": 2.4881000000000006,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 45.53309999999999,
+            "longitude": 4.2861,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.8315,
+            "longitude": 2.7044,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 46.14889999999999,
+            "longitude": -1.1531999999999998,
+            "sous_reseau": "Sud Ouest"
+        },
+        {
+            "latitude": 47.7369,
+            "longitude": 7.2855000000000008,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 46.252,
+            "longitude": 6.0254000000000012,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.5686,
+            "longitude": 3.8375,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.0345,
+            "longitude": 2.1181,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 45.7706,
+            "longitude": 4.791,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 46.121,
+            "longitude": 3.4070999999999994,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.739,
+            "longitude": 4.7230999999999987,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 46.6935,
+            "longitude": -1.4299,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 46.6582,
+            "longitude": 0.36930000000000007,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.322,
+            "longitude": 4.0296,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 45.6883,
+            "longitude": 5.0639,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 47.2603,
+            "longitude": -1.4875,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.9921,
+            "longitude": 2.3624,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.5879,
+            "longitude": 7.6906999999999979,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 50.2809,
+            "longitude": 2.8131,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 50.51250000000001,
+            "longitude": 2.6214,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 48.6036,
+            "longitude": -1.9751000000000003,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.980500000000006,
+            "longitude": 4.3565,
+            "sous_reseau": "Est"
+        },
+        {
+            "latitude": 45.6585,
+            "longitude": 5.1033,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 43.33339999999999,
+            "longitude": 3.2756999999999996,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 49.0102,
+            "longitude": 2.084,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 47.8995,
+            "longitude": 1.8546000000000002,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 49.4188,
+            "longitude": 0.23329999999999998,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.4716,
+            "longitude": -0.5112,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 49.4024,
+            "longitude": 1.0656,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 44.959,
+            "longitude": 4.9408,
+            "sous_reseau": "Sud Est"
+        },
+        {
+            "latitude": 48.7612,
+            "longitude": 2.4453,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 50.72570000000001,
+            "longitude": 1.6437,
+            "sous_reseau": "Nord"
+        },
+        {
+            "latitude": 47.2111,
+            "longitude": -1.4903000000000002,
+            "sous_reseau": "Ouest"
+        },
+        {
+            "latitude": 48.8542,
+            "longitude": 2.6697,
+            "sous_reseau": "Paris"
+        },
+        {
+            "latitude": 48.989299999999993,
+            "longitude": 2.5159999999999996,
+            "sous_reseau": "Paris"
+        }
+    ]
+}

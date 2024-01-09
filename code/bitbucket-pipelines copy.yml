@@ -1,0 +1,35 @@
+options:
+  docker: true
+
+pipelines:
+  custom:
+    deploy:
+      - variables:
+          - name: FOLDER
+
+      - step:
+          name: Build
+          image: node:18
+          caches:
+            - node
+          script:
+            - cd $FOLDER
+            - yarn
+            - npm run build
+            - npm run export
+
+      - step: Test
+          name: Jest
+          image: node:18
+          caches:
+            - node
+          script:
+            - npm run test
+
+      - step: Lint
+          name: Run Lint check
+          image: node:18
+          caches:
+            - node
+          script:
+            - npm run lint

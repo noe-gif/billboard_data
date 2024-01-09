@@ -1,0 +1,1 @@
+export const DASHBOARD_GRID_HEIGHT = 650;
