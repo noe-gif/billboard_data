@@ -28,11 +28,6 @@ There is a .env.example that you can follow but you will have to do two things :
 ```
 # Please create your .env.local following this structure :
 
-# MOVIES API
-NEXT_PUBLIC_TMDP_BASE_URL=https://api.themoviedb.org/3
-NEXT_PUBLIC_TMDP_AUTH=<FIREBASE_TOKEN> # (https://www.themoviedb.org/settings/api) - second token!! (*not* the first smaller api key)>
-
-
 # FIREBASE API
 NEXT_PUBLIC_FIREBASE_API_KEY=<FIREBASE_TOKEN>
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=<FIREBASE_TOKEN>
